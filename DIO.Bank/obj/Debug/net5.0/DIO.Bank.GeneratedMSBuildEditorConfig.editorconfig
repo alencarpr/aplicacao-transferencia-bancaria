@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = DIO.Bank
-build_property.ProjectDir = c:\Users\paulo.alencar\Documents\ESTUDOS\DIO\aplicacao-transferencia-bancaria\DIO.Bank\
+build_property.ProjectDir = C:\DIO\Projetos\Dio.Bank\DIO.Bank\

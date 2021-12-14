@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "51pfhC09JbuqUePRQD8IGwgdwmBxtdm5Mjy6y9d3Z4IyUbxN7G9IJDMK3nJ5M2nxMfAvgqM4YqPeVf5bw4ICGw==",
+  "dgSpecHash": "xtgwqwu8NtvvwC9AReQTRVNdJ2yvt2sgf+2/Mdyc86cjPXPaPEdSlHIPN9gaRNmGejnC8YaK4v7N6OwCU4bVFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\paulo.alencar\\Documents\\ESTUDOS\\DIO\\aplicacao-transferencia-bancaria\\DIO.Bank\\DIO.Bank.csproj",
+  "projectFilePath": "C:\\DIO\\Projetos\\Dio.Bank\\DIO.Bank\\DIO.Bank.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
