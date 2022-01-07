@@ -8,24 +8,28 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alencar\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\paulo.alencar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DIO\\Projetos\\Dio.Bank\\DIO.Bank\\DIO.Bank.csproj",
+      "projectUniqueName": "C:\\Users\\paulo.alencar\\Documents\\ESTUDOS\\DIO\\aplicacao-transferencia-bancaria\\DIO.Bank\\DIO.Bank.csproj",
       "projectName": "DIO.Bank",
-      "projectPath": "C:\\DIO\\Projetos\\Dio.Bank\\DIO.Bank\\DIO.Bank.csproj",
-      "packagesPath": "C:\\Users\\Alencar\\.nuget\\packages\\",
-      "outputPath": "C:\\DIO\\Projetos\\Dio.Bank\\DIO.Bank\\obj\\",
+      "projectPath": "C:\\Users\\paulo.alencar\\Documents\\ESTUDOS\\DIO\\aplicacao-transferencia-bancaria\\DIO.Bank\\DIO.Bank.csproj",
+      "packagesPath": "C:\\Users\\paulo.alencar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\paulo.alencar\\Documents\\ESTUDOS\\DIO\\aplicacao-transferencia-bancaria\\DIO.Bank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Alencar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\paulo.alencar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -64,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
